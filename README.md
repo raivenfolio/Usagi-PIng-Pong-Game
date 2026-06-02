@@ -1,4 +1,4 @@
-# Usagi-PIng-Pong-Game
+# Usagi 
 cute little game engine to test out ! so fun
 
 ## Usagi Engine
